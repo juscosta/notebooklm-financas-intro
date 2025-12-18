@@ -1,3 +1,4 @@
+**Repositório:** https://github.com/juscosta/notebooklm-financas-intro
 # notebooklm-financas-intro
 Repositório com um miniguia de estudo para finanças básicas usando o NotebookLM
 =======
